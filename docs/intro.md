@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ![GoPlant](./goplant.png)
 
-Memperkenalkan hasil bumi kami yang segar dan bersumber secara lokal. Petani kami sangat berhati-hati dalam menanam dan memanen setiap tanaman, memastikan Anda mendapatkan kualitas dan rasa terbaik. Dengan memilih opsi farm-to-table kami, Anda tidak hanya mendukung petani lokal dan komunitas mereka, tetapi juga membuat pilihan sadar untuk sistem pangan yang lebih sehat dan berkelanjutan. Bergabunglah dengan kami dalam merayakan rasa dan manfaat nutrisi dari buah dan sayuran yang ditanam secara lokal.
+Kami adalah komunitas yang bergerak dibidang pertanian untuk mempermudah konsumen membeli bahan pangan nya tanpa perantara dan langsung berhubungan dengan petani nya secara langsung.Memperkenalkan hasil bumi kami yang segar dan bersumber secara lokal. Petani kami sangat berhati-hati dalam menanam dan memanen setiap tanaman, memastikan Anda mendapatkan kualitas dan rasa terbaik. Dengan memilih opsi farm-to-table kami, Anda tidak hanya mendukung petani lokal dan komunitas mereka, tetapi juga membuat pilihan sadar untuk sistem pangan yang lebih sehat dan berkelanjutan. Bergabunglah dengan kami dalam merayakan rasa dan manfaat nutrisi dari buah dan sayuran yang ditanam secara lokal.
 
 # Background
 
