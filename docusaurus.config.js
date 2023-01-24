@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'GoPlant',
-  tagline: 'From groceries to goals, we have got you covered.',
+  tagline: 'Farm to fork, taste the difference in every bite.',
   url: 'https://goplant-uas-trpl.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
