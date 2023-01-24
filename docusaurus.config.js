@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'To-do list application',
+  title: 'GoPlant',
   tagline: 'From groceries to goals, we have got you covered.',
   url: 'https://goplant-uas-trpl.vercel.app/',
   baseUrl: '/',
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'To-do List Application',
+        title: 'GoPlant',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
