@@ -4,12 +4,10 @@ sidebar_position: 1
 
 # Introduction
 
-![To-dolist](./todolist.png)
+![GoPlant](./goplant.png)
 
-Welcome to our to-do list application! This web-based tool is designed to help you manage your daily tasks and stay organized. Whether you need to keep track of groceries to buy, tasks to complete at work, or personal goals to achieve, our application has you covered. With its clean and simple user interface, you can easily add, edit, and delete tasks, and mark them as complete when you're finished. You can also organize your tasks into different categories or lists to help you stay focused and on track. We hope that our to-do list application becomes a valuable tool in your daily life. Thank you for choosing us!
-
-The to-do list application is a web-based tool that allows users to create, manage, and track their daily tasks. The application will be designed for use on desktop and mobile devices.
+Memperkenalkan hasil bumi kami yang segar dan bersumber secara lokal. Petani kami sangat berhati-hati dalam menanam dan memanen setiap tanaman, memastikan Anda mendapatkan kualitas dan rasa terbaik. Dengan memilih opsi farm-to-table kami, Anda tidak hanya mendukung petani lokal dan komunitas mereka, tetapi juga membuat pilihan sadar untuk sistem pangan yang lebih sehat dan berkelanjutan. Bergabunglah dengan kami dalam merayakan rasa dan manfaat nutrisi dari buah dan sayuran yang ditanam secara lokal.
 
 # Background
 
-There are many to-do list applications available on the market, but many of them are either too complex or lack important features. The goal of this project is to create a simple, yet powerful to-do list application that meets the needs of a wide range of users.
+Penggunaan teknologi dalam pertanian, khususnya aplikasi mobile, telah meningkat dalam beberapa tahun terakhir. Salah satu aplikasi yang dibuat adalah GoPlant, yang bertujuan untuk menghubungkan petani lokal dengan konsumen di lingkungan mereka. Aplikasi ini memungkinkan petani untuk mencantumkan produk pertanian mereka yang tersedia, dan konsumen dapat membeli langsung dari petani, tanpa perantara. Ini tidak hanya mendukung komunitas petani lokal, tetapi juga mempromosikan konsumsi buah dan sayuran segar yang dihasilkan lokal. GoPlant juga memungkinkan petani untuk mengelola persediaan, melacak penjualan, dan berkomunikasi dengan pelanggan. Dengan GoPlant, konsumen dapat dengan mudah mendapatkan makanan yang segar dan sehat, serta mendukung petani lokal. Dengan menggunakan aplikasi ini, kami berharap dapat membangun sistem pangan yang berkelanjutan dan tangguh, di mana petani dan konsumen dapat memiliki hubungan yang langsung dan transparan.
