@@ -16,3 +16,8 @@ sidebar_position: 2
 
 - Class Diagram
 ![1](./img/classdiagram.png)
+
+- Use Case Diagram
+![2](./img/usecase.png)
+
+- Activity Diagram
