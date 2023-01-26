@@ -4,11 +4,17 @@ sidebar_position: 3
 
 # Design
 
-The to-do list application will be built using a standard three-tier architecture, with a front-end client, a backend server, and a database. The front-end client will be implemented using HTML, CSS, and JavaScript, and will communicate with the backend server using a RESTful API. The backend server will be implemented using Python and the Flask framework, and will use a MySQL database to store the tasks and other application data.
+Aplikasi GoPlant dibangun menggunakan front-end client, backend server, dan database. Client front-end akan diimplementasikan menggunakan HTML, CSS, dan JavaScript, dan akan berkomunikasi dengan server backend menggunakan RESTful API. Server backend akan menggunakan database MySQL untuk menyimpan data pemesanan pelanggan dan juga alamat pengiriman.
 
 # User interface design:
 
-The user interface for the to-do list application will be clean and simple, with a focus on ease of use. The main screen will display a list of tasks, with the ability to filter and sort the tasks by various criteria. Each task will have a title, description, and due date, and will be displayed in a card-like layout. The user will be able to create, edit, and delete tasks using simple form inputs.
+- Daftar produk: Halaman yang menampilkan daftar produk yang tersedia dari petani lokal, termasuk foto, deskripsi, harga, dan jumlah stok.
+
+- Pencarian dan filter: Fitur pencarian yang memungkinkan pengguna untuk menemukan produk yang sesuai dengan kriteria tertentu, seperti jenis produk, lokasi petani, atau harga.
+
+- Keranjang belanja: Pengguna dapat menambahkan produk ke keranjang belanja mereka dan meninjau daftar produk yang telah dipilih.
+
+- Checkout: Proses checkout yang mudah dan aman yang memungkinkan pengguna untuk melakukan pembayaran dan mengirimkan alamat pengiriman.
 
 ## Wireframe
 
