@@ -20,14 +20,14 @@ Aplikasi GoPlant dibangun menggunakan front-end client, backend server, dan data
 
 Screenshots of wireframes
 
-![1](./img/app_todo.webp)
+![1](./img/wireframe.png)
 some caption.
 
 ## Mockups
 
 Screenshots of mockups
 
-![2](./img/app_todo2.webp)
+![2](./img/mockup.jpeg)
 some caption.
 
 # Demo
