@@ -4,8 +4,9 @@ sidebar_position: 2
 
 # Requirements
 
-- The application must be accessible from any modern web browser.
-- The application must allow users to create, edit, and delete tasks.
-- The application must allow users to mark tasks as complete.
-- The application must allow users to organize tasks into different categories or lists.
-- The application must have a responsive design to ensure that it works well on both desktop and mobile devices.
+- User Interface harus mengizinkan pengguna untuk membuat pesanan baru dengan menginput pesanan nya serta alamat pengantaran.
+- User Interface harus mengizinkan pengguna untuk mengedit pemesanan pelanggan.
+- User Interface harus mengizinkan pengguna untuk menghapus pesanan pelanggan.
+- Setiap riwayat pemesanan dapat ditampilkan di aplikasi GoPlant.
+- Aplikasi harus memiliki sistem notifikasi yang mengirimkan pengingat kepada pengguna melalui email atau push notification ketika pesanan mereka segera sampai.
+- Aplikasi harus memiliki sistem masuk yang aman untuk melindungi data pengguna, menggunakan teknik enkripsi standar industri.

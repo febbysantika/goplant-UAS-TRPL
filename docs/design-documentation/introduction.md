@@ -4,8 +4,10 @@ sidebar_position: 1
 
 # Introduction
 
-The to-do list application is a web-based tool that allows users to create, manage, and track their daily tasks. The application will be designed for use on desktop and mobile devices.
+
+Aplikasi ini juga dilengkapi dengan fitur lain seperti pengaturan jadwal pengiriman, pembayaran online, serta opsi pilihan pengiriman. Ini memudahkan proses pemesanan dan pengiriman bahan pangan kepada konsumen. Aplikasi GoPlant juga memungkinkan konsumen untuk memantau status pengiriman dan mengetahui asal produk yang dipesan.
+
 
 # Background
 
-There are many to-do list applications available on the market, but many of them are either too complex or lack important features. The goal of this project is to create a simple, yet powerful to-do list application that meets the needs of a wide range of users.
+Aplikasi GoPlant menyediakan solusi mudah bagi konsumen untuk memesan bahan pangan dari petani langsung tanpa perantara. Aplikasi ini dikembangkan dengan tujuan untuk membantu petani lokal dalam menjual produk mereka dan memudahkan konsumen untuk mendapatkan bahan pangan yang segar dan berkualitas.
