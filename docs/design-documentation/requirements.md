@@ -10,3 +10,9 @@ sidebar_position: 2
 - Setiap riwayat pemesanan dapat ditampilkan di aplikasi GoPlant.
 - Aplikasi harus memiliki sistem notifikasi yang mengirimkan pengingat kepada pengguna melalui email atau push notification ketika pesanan mereka segera sampai.
 - Aplikasi harus memiliki sistem masuk yang aman untuk melindungi data pengguna, menggunakan teknik enkripsi standar industri.
+
+
+# UML
+
+- Class Diagram
+![1](./img/classdiagram.png)
