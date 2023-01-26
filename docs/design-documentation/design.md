@@ -28,7 +28,7 @@ some caption.
 Screenshots of mockups
 
 ![2](./img/mockup.jpeg)
-some caption.
+
 
 # Demo
 [GoPlant](https://www.figma.com/file/EKEZN0TyNt2WOTH3weAKKU/Untitled?node-id=0%3A1&t=r7QUh8WeMeIiJj4O-1)
