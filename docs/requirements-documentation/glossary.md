@@ -6,7 +6,7 @@ sidebar_position: 5
 
 | **Term** 	| **Description**                                                                                                               	|
 |----------	|-------------------------------------------------------------------------------------------------------------------------------	|
-| Task     	| A single item on a user's to-do list.                                                                                         	|
-| Category 	| A grouping of tasks that share a common theme or purpose.                                                                     	|
-| List     	| A collection of tasks that can be filtered and sorted by the user.                                                            	|
-| Client   	| The front-end portion of the application that is responsible for displaying the user interface and interacting with the user. 	|
+| CRUD     	| Singkatan dari Create, Read, Update, dan Delete                                                                                 	|
+| MYSQL 	| adalah sebuah sistem manajemen basis data relasional (RDBMS) yang dikembangkan oleh MySQL AB                                                                 	|
+| Front-End     	|dalah bagian dari pengembangan web yang bertanggung jawab untuk tampilan dan interaksi pengguna dengan situs web                                            	|
+|   Farm to Table 	|  Farm to table adalah filosofi dan praktik pangan yang menghubungkan pengelola pertanian dengan konsumen melalui pemasokan produk pertanian yang segar dan lokal	|
